@@ -1,0 +1,9 @@
+{
+    "extends": "@definitelytyped/dtslint/dt.json",
+    "rules": {
+        "array-type": false,
+        "ban-types": false,
+        "object-literal-key-quotes": false,
+        "strict-export-declare-modifiers": false
+    }
+}
